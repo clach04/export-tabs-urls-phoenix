@@ -2,7 +2,7 @@
 
 [Export Tabs URLs Phoenix](https://addons.mozilla.org/firefox/addon/export-tabs-urls-phoenix/) is a Web browser extension that allows to list the URLs of all the open tabs and export/copy that list to clipboard, text file, or html bookmarks file.
 
-https://github.com/clach04/export-tabs-urls-phoenix is a fork of alct's (Andre Loconte) export-tabs-urls (version 0.2.12 from 2019).
+https://github.com/clach04/export-tabs-urls-phoenix is a fork of [alct's (Andre Loconte) export-tabs-urls](https://github.com/alct/export-tabs-urls) (version 0.2.12 from 2019).
 
 Renamed and newer version number(s) to attempt to reduce confusion with the original upstream.
 
@@ -23,6 +23,13 @@ Features that the original did not have:
   * Slightly smaller, removed dependency on Moments.js - https://github.com/clach04/export-tabs-urls-phoenix/issues/11
   * Revised German translation - thanks to https://github.com/pikim/export-tabs-urls/tree/patch-1
   * Revised English translation
+
+## Similar Extensions
+
+Note untested, these are not recommendations.
+
+  * https://github.com/piroor/copy-selected-tabs-to-clipboard - allows some templating of export format contents
+      * https://github.com/piroor/copy-selected-tabs-to-clipboard/issues
 
 ----------------------------------------------------
 
