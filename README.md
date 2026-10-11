@@ -26,7 +26,9 @@ Features that the original did not have:
 
 ## Similar Extensions
 
-Note untested, these are not recommendations.
+I really link https://github.com/hansifer/tab-copy
+
+Note untested; these are not recommendations.
 
   * https://github.com/piroor/copy-selected-tabs-to-clipboard - allows some templating of export format contents
       * https://github.com/piroor/copy-selected-tabs-to-clipboard/issues
